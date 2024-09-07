@@ -21,10 +21,9 @@ I'm Aarya, a Computer Science Engineering student from India. I’m currently wo
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-**#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@Aarya/30-nites-of-code)  
-
-![@sonny #30NitesOfCode](https://codedex.io/api/petStatus?user=Aarya)
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Aarya/30-nites-of-code)  
+  ![@Aarya #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aarya)
 
 **Let's Connect:**
 Feel free to reach out on Discord: [aaryy._19]
