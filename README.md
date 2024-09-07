@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi, I’m @Aaryacode19<br> 🔭 I’m currently working on ?<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning how ducks do quack quack<br>💬 Ask me about 🦆<br>⚡ Fun fact Quack Wack
+# Hi there, I'm Aarya! 👋
+
+I'm a Computer Science Engineering student based in India with a passion for technology and innovation. I have a deep love for ducks, coffee, and music—Spotify being my first love.
+
+Currently, I work as a Tech Lead at the NASA Space Apps International Challenge.
+
+Feel free to connect with me! You can reach me on Discord: [aaryy._19].
+
+Looking forward to collaborating and sharing ideas!
+
 
 
 ## 🌐 Socials:
