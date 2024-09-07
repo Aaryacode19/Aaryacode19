@@ -1,13 +1,18 @@
-# Hi there, I'm Aarya! 👋
+## Howdy 👋
 
-I'm a Computer Science Engineering student based in India with a passion for technology and innovation. I have a deep love for ducks, coffee, and music—Spotify being my first love.
+I'm Aarya, a Computer Science Engineering student from India. I’m currently working as a Tech Lead at the NASA Space Apps International Challenge.
 
-Currently, I work as a Tech Lead at the NASA Space Apps International Challenge.
+### About me:
 
-Feel free to connect with me! You can reach me on Discord: [aaryy._19].
+- Passionate about ducks 🦆, coffee ☕, and music 🎶—Spotify being my first love.
+- Studying Computer Science Engineering with a keen interest in technology and innovation.
+- Love working on exciting tech projects and collaborating with brilliant minds.
+- Also love to explore python.
 
-Looking forward to collaborating and sharing ideas!
-
+### Fun facts:
+- I can't start my day without a cup of coffee.
+- I'm always on the lookout for new music on Spotify.
+- Ducks are my fav!
 
 
 ## 🌐 Socials:
