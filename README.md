@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 👋 Hi, I’m @Aaryacode19 <br> I’m currently working on ?<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning how ducks do quack quack<br>💬 Ask me about 🦆<br>⚡ Fun fact Quack Wack
+👋 Hi, I’m @Aaryacode19<br> 🔭 I’m currently working on ?<br>👯 I’m looking to collaborate on python projects<br>🌱 I’m currently learning how ducks do quack quack<br>💬 Ask me about 🦆<br>⚡ Fun fact Quack Wack
 
 
 ## 🌐 Socials:
