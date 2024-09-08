@@ -23,7 +23,7 @@ I'm Aarya, a Computer Science Engineering student from India. I’m currently wo
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Aarya/30-nites-of-code)  
-  [@Aarya #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aarya)
+  ![@Aarya #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aarya)
 
 **Let's Connect:**
 Feel free to reach out on Discord: [aaryy._19]
